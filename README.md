@@ -12,4 +12,4 @@
 
 
 *references*
->egghead.io __'Introduction to the Python 3 Programming Language'__
+>https://www.learnpython.org/
